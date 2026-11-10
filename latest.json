@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "0.10.10",
+  "versionCode": 66,
+  "versionName": "0.10.11",
   "apkUrl": "https://github.com/sashasurgin-cell/Toyota-Diagnostic-Pro-Releases/releases/latest/download/ToyotaDiagnosticPro.apk",
-  "sha256": "768e7a30968032853d65e37638ed1e2119e03cc6695f88627845657de58c6e6a",
-  "changelog": "Universal Diagnostic Pro 0.10.10: Toyota/Lexus, Ford, Mazda и Kia; новые функции и исправления."
+  "sha256": "6bf07a7f4505f6424f54af0e120943d23953ac9dc2c46ada650d8d3aca6b461f",
+  "changelog": "Universal Diagnostic Pro 0.10.11: Toyota/Lexus, Ford, Mazda и Kia; новые функции и исправления."
 }
